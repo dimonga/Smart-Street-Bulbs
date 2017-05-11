@@ -1,9 +1,9 @@
-# [Smart Streetligh
+# Smart Streetlights
 
 Image if the streetlights around us are smart enough to sense,monitor and analyse the surroundings.The initial plan of the smart street bulbs is to develop a prototype which is cabable of sensing rainfall, temperature, pollution, pathogens, po holes, traffic intensity  in the locality of a street bulb.Along with all these features I am trying to incorporate my latest research i.e. Light fidelity inside the bulb.Which is basically the transfer of data using these streetlights itself. 
 ![Logo](https://image.freepik.com/free-vector/creative-light-bulb_23-2147518001.jpg)
 
-[ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
+## Description
 
 ## Getting Started
 
