@@ -4,12 +4,12 @@ Image if the streetlights around us are smart enough to sense,monitor and analys
 ![Logo](https://image.freepik.com/free-vector/creative-light-bulb_23-2147518001.jpg)
 
 ## Description
-###The following are the features of proposed Smart Lightning system </br>
+### The following are the features of proposed Smart Lightning system </br>
 1.	The street lamps will have a feature of Visible light communication, i.e. the street lamp itself will be a source of data, while users can simply hover their devices under light for the reception of data.</br>
 2.	The street will be having a line of streetlights that are communicating with each other using Wifi/bluetooth/zigbee and sending the data of every locality to their related authority.</br>
 3.	These devices being Internet of Things enabled can be </br>
 4.	There are some sensors inside the light bulb, so the need for having individual sensor station is eliminated.</br>
-####The bulb comprises of following sensors:</br>
+#### The bulb comprises of following sensors:</br>
 a.	Bacteria and Harmful virus detectors : Measuring the amount the various pathogens present in a locality and showing data of respective area</br>
 b.	Motion detection : Detects the intensity of traffics and turns ON/OFF or dims the street light in order to save energy</br>
 c.	Smoke and Pollution detectors : keeps a log of the pollution and sends the data to Pollution control department</br>
