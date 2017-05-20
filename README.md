@@ -16,7 +16,7 @@ Image if the streetlights around us are smart enough to sense,monitor and analys
 -	Temperature and Rainfall sensors : to detect the temperature and rainfall of a particular area in order to get info about a particular region</br>
 -	Pot-hole detection: detects the pothole present near the bulb so that the drive can get information about the uneven roads thus can reduce the number of accidents.</br>
 
-![Block Diagram] (https://www.dropbox.com/s/jsrj2ehtwmy5fn3/123.png)
+![Block Diagram](https://www.dropbox.com/s/jsrj2ehtwmy5fn3/123.png)
 
 
 ## Getting Started
