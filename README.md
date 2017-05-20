@@ -10,13 +10,13 @@ Image if the streetlights around us are smart enough to sense,monitor and analys
 3.	These devices being Internet of Things enabled can be </br>
 4.	There are some sensors inside the light bulb, so the need for having individual sensor station is eliminated.</br>
 #### The bulb comprises of following sensors:</br>
-a.	Bacteria and Harmful virus detectors : Measuring the amount the various pathogens present in a locality and showing data of respective area</br>
-b.	Motion detection : Detects the intensity of traffics and turns ON/OFF or dims the street light in order to save energy</br>
-c.	Smoke and Pollution detectors : keeps a log of the pollution and sends the data to Pollution control department</br>
-d.	Temperature and Rainfall sensors : to detect the temperature and rainfall of a particular area in order to get info about a particular region</br>
-e.	Pot-hole detection: detects the pothole present near the bulb so that the drive can get information about the uneven roads thus can reduce the number of accidents.</br>
+-	Bacteria and Harmful virus detectors : Measuring the amount the various pathogens present in a locality and showing data of respective area</br>
+-	Motion detection : Detects the intensity of traffics and turns ON/OFF or dims the street light in order to save energy</br>
+-	Smoke and Pollution detectors : keeps a log of the pollution and sends the data to Pollution control department</br>
+-	Temperature and Rainfall sensors : to detect the temperature and rainfall of a particular area in order to get info about a particular region</br>
+-	Pot-hole detection: detects the pothole present near the bulb so that the drive can get information about the uneven roads thus can reduce the number of accidents.</br>
 
-![Block Diagram] (https://drive.google.com/open?id=0B2MqzvjjjeJsSWJRdmgycUxjd1E)
+![Block Diagram] (https://www.dropbox.com/s/jsrj2ehtwmy5fn3/123.png)
 
 
 ## Getting Started
