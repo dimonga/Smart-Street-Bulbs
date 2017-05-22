@@ -16,7 +16,9 @@ Image if the streetlights around us are smart enough to sense,monitor and analys
 -	Temperature and Rainfall sensors : to detect the temperature and rainfall of a particular area in order to get info about a particular region</br>
 -	Pot-hole detection: detects the pothole present near the bulb so that the drive can get information about the uneven roads thus can reduce the number of accidents.</br>
 
-<p align="center"> ![Block Diagram](https://raw.githubusercontent.com/dimonga/Smart-Street-Bulbs/5062f376dbdcc187ddfdae62c0c3d98ea6a52f55/1.png "Basic Layout") </p>
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/dimonga/Smart-Street-Bulbs/5062f376dbdcc187ddfdae62c0c3d98ea6a52f55/1.png">
+</p>
 
 
 ## Getting Started
