@@ -36,7 +36,7 @@ For more details visit [CONTRIBUTING.md](CONTRIBUTING.md).
 
 Thanks for your interest in contributing to Smart Street Lights, The ways you can contribute are as follows
 - Contribute in building hardware
-- Contribute in writing code
+- Contribute in writing code </br>
 Visit [CONTRIBUTING.md](CONTRIBUTING.md) for more details
 
 ## Participation Guidelines
