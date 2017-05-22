@@ -1,7 +1,10 @@
 # Smart Streetlights
 
 Image if the streetlights around us are smart enough to sense,monitor and analyse the surroundings.The initial plan of the smart street bulbs is to develop a prototype which is cabable of sensing rainfall, temperature, pollution, pathogens, po holes, traffic intensity  in the locality of a street bulb.Along with all these features I am trying to incorporate my latest research i.e. Light fidelity inside the bulb.Which is basically the transfer of data using these streetlights itself. 
-![Logo](https://image.freepik.com/free-vector/creative-light-bulb_23-2147518001.jpg)
+<p align="center"> 
+<img src="https://image.freepik.com/free-vector/creative-light-bulb_23-2147518001.jpg">
+</p>
+
 
 ## Description
 ### The following are the features of proposed Smart Lightning system </br>
