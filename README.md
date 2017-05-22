@@ -30,11 +30,14 @@ Image if the streetlights around us are smart enough to sense,monitor and analys
  <p align="center"> 
 <img src="https://raw.githubusercontent.com/dimonga/Smart-Street-Bulbs/5062f376dbdcc187ddfdae62c0c3d98ea6a52f55/123.png">
 </p>
-
+For more details visit [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Contributing
 
-Thanks for your interest in contributing to [PROJECT]! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
+Thanks for your interest in contributing to Smart Street Lights, The ways you can contribute are as follows
+- Contribute in building hardware
+- Contribute in writing code
+Visit [CONTRIBUTING.md](CONTRIBUTING.md) for more details
 
 ## Participation Guidelines
 
