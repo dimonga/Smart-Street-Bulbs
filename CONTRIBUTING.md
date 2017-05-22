@@ -6,6 +6,8 @@
 
 
 
+
+
 Restart your project vision here. Redundancy is your friend
 >[Project] is ...
 
@@ -23,7 +25,7 @@ If your guide is long, consider adding a table of contents.
 
 ## Participation guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to dipeshcmonga@gmail.com.
 
 ## What we're working on
 
