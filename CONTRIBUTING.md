@@ -1,7 +1,10 @@
-# Contributing to [Project]
+# Contributing to Smart street Light bulbs
 
-Add a bit of welcome and cheer at the top
->Thank you for your interest in contributing to [Project] :tada:! 
+>Thank you for your interest in contributing my project :tada:!. The project is basically divided into two parts
+- Smart bulbs connected to various sensors.
+- Light fidelity i.e. Using Street light bulbs to transfer data for Visible light communication. </br>
+
+
 
 Restart your project vision here. Redundancy is your friend
 >[Project] is ...
@@ -52,5 +55,4 @@ Most projects invite all contributors to report bugs, so "debugging" or fixing p
 
 ## Communication channels
 
-Do you have a chat room or email list you use to discuss this project? List them all here! Provide clear contact info, and outline the process for getting in touch, for anyone with questions.
-
+For any queries mail me at dipeshcmonga@gmail.com
