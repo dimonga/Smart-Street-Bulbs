@@ -25,8 +25,12 @@ Image if the streetlights around us are smart enough to sense,monitor and analys
 
 
 ## Getting Started
+ The block diagram below can help you getting started on the project.To keep the project simple we will be using commonly available development boards such as Arduino, ESP8266/NodeMCU, Zigbee, Bluetooth modules such as HC-05,etc.
+ 
+ <p align="center"> 
+<img src="https://raw.githubusercontent.com/dimonga/Smart-Street-Bulbs/5062f376dbdcc187ddfdae62c0c3d98ea6a52f55/123.png">
+</p>
 
-[ Use this section to orient newcomers to your project on how to use it. Installation or download instructions? Viewing instructions? Example code snippet? Add them here! ]
 
 ## Contributing
 
